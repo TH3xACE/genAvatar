@@ -1,0 +1,12 @@
+Origin      |   Code 
+---------------------------
+African     |   AFR
+Algerian    |   ALG X
+Chinese     |   CHN X
+Spanish     |   SPN
+French      |   FRA X
+Italien     |   ITA
+Lebanese    |   LBN
+Moroccan    |   MRN X
+Russian     |   RUS X
+-------------------------

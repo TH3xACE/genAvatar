@@ -53,8 +53,8 @@ Example Online mode
 
 Mandatory arguments 
 --------------------------
-* ** -n : number of name to generate**
-* ** -o : Origin - check list below for code**
+* -n : number of name to generate
+* -o : Origin - check list below for code
 
 Origin      |   Code 
 ---------------------------

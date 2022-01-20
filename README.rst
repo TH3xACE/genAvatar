@@ -28,6 +28,10 @@ Overview
 *genAvatar* was developped to assist in SpearPhishing campaign during Red Team operations. It can be used to generate random name based on country of origin, sex and how common the combination of surname and firstname can be.
 You can generate up to 90,000 names for each origin (about 45,000 for men and same for women). The more the common ratio is, the more common is the name and the probability that the name exists in real life.
 
+ .. image:: ./img/img0.png
+ 	:width: 650px
+ 	:alt: Project
+
 
 =============
 Features

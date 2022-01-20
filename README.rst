@@ -29,19 +29,15 @@ Overview
 You can generate up to 90,000 names for each origin (about 45,000 for men and same for women). The more the common ratio is, the more common is the name and the probability that the name exists in real life.
 
 
-
-*SUDO_KILLER* will then provide a list of commands or local exploits which could be exploited to elevate privilege. 
-It is worth noting that the tool does not perform any exploitation on your behalf, the exploitation will need to be performed manually and this is intended.
-
-
 =============
 Features
 =============
 
-* **Generate Name based on:**
-* **+ Origin (country)**
-* **+ Sex (Male or Female)**
-* **+ Common ratio (Very common or rare)**
+*Generate Name based on:*
+
+* **Origin (country)**
+* **Sex (Male or Female)**
+* **Common ratio (Very common or rare)**
 * **up to 90,000 possible name combination for each origin**
 
 =============
@@ -57,8 +53,8 @@ Example Online mode
 
 Mandatory arguments 
 --------------------------
-* **-n  number of name to generate
-* **-o  Origin - check list below for code
+* ** -n : number of name to generate**
+* ** -o : Origin - check list below for code**
 
 Origin      |   Code 
 ---------------------------
@@ -76,9 +72,9 @@ Russian     |   RUS X
 	
 Optional arguments 
 --------------------------
-* **-c  Include common ratio
-* **-s  Sex, can be either M or F (Male or Female)
-* **-h  Displays this help text
+* -c : Include common ratio 
+* -s : Sex, can be either M or F (Male or Female)
+* -h : Displays this help text*
 
 
 =============
